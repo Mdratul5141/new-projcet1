@@ -1,0 +1,19 @@
+.main{
+   background-color: aqua;
+   width: 100%;
+  
+}
+.main-box{
+    display: flex;
+  gap: 10px;
+}
+.box{
+background-color: blue;
+width: 22%;
+height: 150px;
+}
+.bax2{
+    background-color: blue;
+    width: 22%;
+    height: 150px;
+    }
